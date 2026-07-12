@@ -5,7 +5,6 @@ This repository contains a hands-on exercise demonstrating advanced data governa
 > **Scope Note:** This exercise focuses entirely on **Data-Layer Security and Governance inside Unity Catalog** (such as Row-Level Filtering and Column Masking).
 
 ## 📘 Structure
-
 ```text
 databricks-uc-data-governance/
 ├── 📄 .gitignore
@@ -16,6 +15,7 @@ databricks-uc-data-governance/
     ├── 🔑 2_catalog_cryptography_key.py
     ├── 🛡️ 3_catalog_column_masking_rlf.py
     └── 🏢 4_real_world_use.py
+```
 
 ## 📁 Exercise Structure
 
